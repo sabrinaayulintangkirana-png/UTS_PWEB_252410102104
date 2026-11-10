@@ -5,16 +5,19 @@ MoneyMate merupakan website sederhana yang dirancang untuk membantu mahasiswa da
 ## Tampilan Website
 
 ### Halaman Login
-![Login MoneyMate](screenshoot/LOGIN.png)
+<img width="960" height="540" alt="LOGIN" src="https://github.com/user-attachments/assets/6cd3d457-6db6-41ef-bdb6-534049216429" />
+
 
 ### Dashboard
-![Dashboard MoneyMate](screenshoot/DASHBOARD.png)
+<img width="925" height="439" alt="DASHBOARD" src="https://github.com/user-attachments/assets/86cb0487-8c1b-4f27-b12c-5a9aad32aead" />
+
 
 ### Pengelolaan Keuangan
-![Pengelolaan MoneyMate](screenshoot/PENGELOLAAN.png)
+<img width="960" height="540" alt="PENGELOLAAN" src="https://github.com/user-attachments/assets/b7485033-3a4a-4a59-a198-17e33964c8a3" />
 
 ### Profile
-![Profile MoneyMate](screenshoot/PROFILE.png)
+<img width="960" height="540" alt="PROFIL" src="https://github.com/user-attachments/assets/1ab5cafd-1106-4631-9e0d-24d0b63ccfb2" />
+
 
 ## Teknologi
 - PHP
